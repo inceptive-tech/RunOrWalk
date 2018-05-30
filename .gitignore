@@ -10,3 +10,10 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+
+#Netbeans config files
+nb-configuration.xml
+nbactions.xml
+
+#Log4j config file default path ignore
+src/main/resources/log4j2.xml
